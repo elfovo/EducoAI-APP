@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCYyrEAywYN9XUl3hDhgQRM8ab5bdcyf2E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>563980749369</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.foveau.EduCoAI</string>
+	<key>PROJECT_ID</key>
+	<string>educo-ai</string>
+	<key>STORAGE_BUCKET</key>
+	<string>educo-ai.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:563980749369:ios:ad2de1b3a4671e9a975be8</string>
+</dict>
+</plist>
